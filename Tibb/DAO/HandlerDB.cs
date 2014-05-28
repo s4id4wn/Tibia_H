@@ -28,7 +28,7 @@ namespace Tibb.DAO
             server = "sql201.260mb.org";
             database = "mb260_11850660_tibb";
             uid = "mb260_11850660";
-            password = "said6989601";
+            password = "";
             string connectionString;
             connectionString = "SERVER=" + server + ";" + "DATABASE=" + 
 		    database + ";" + "UID=" + uid + ";" + "PASSWORD=" + password + ";";
